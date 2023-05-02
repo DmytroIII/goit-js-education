@@ -1,0 +1,12 @@
+body {
+    padding: 16px;
+    text-align: center;
+}
+
+.cls {
+    color:red;
+}
+
+.invalid {
+    color:blue;
+}
